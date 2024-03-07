@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: DedoList
+! Version: 1.0
+! Last modified: 20230307
+! Expires: 1 days
+! License: https://creativecommons.org/licenses/by-sa/4.0/
+! Homepage: https://github.com/boddedo/internal-filter
+! WritingRules: https://adblockplus.org/filters
+! RegExpVisualizer: http://www.regexper.com/
+! Subscribe Link: https://raw.github.com/boddedo/internal-filter/main/analytic-filter.txt
+!
+
+@@||plausible.io^
